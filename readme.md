@@ -1,9 +1,7 @@
 # PoC
 
-<video width="600" controls>
-  <source src="poc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/119e899d-1640-4009-9ae0-086c88b6872d
+
 
 
 ## Load an unpacked extension
