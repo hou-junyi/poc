@@ -1,5 +1,11 @@
 # PoC
 
+<video width="600" controls>
+  <source src="poc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Load an unpacked extension
 To load an unpacked extension in developer mode:
 
